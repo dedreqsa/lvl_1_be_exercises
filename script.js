@@ -24,4 +24,4 @@ secondVar = thirdVar;
 
 console.log('First: ', firstVar);
 console.log('Second:', secondVar);
-console.log ('upss')
+console.log ('Nodo mkhetsadze')
